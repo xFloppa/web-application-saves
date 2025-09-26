@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum-vitae>
+	<cv-mario-rossi>
+	<dati-personali>
+		<nome>Mario</nome>
+		<cognome>Rossi</cognome>
+		<residenza>Via Milano, 40 - 10100 Roma</residenza>
+		<e-mail>mario.rossi@email.it</e-mail>
+		<tel.>01-2345678</tel.>
+		<cell.>111-222333444</cell.>
+		<nato-il>11-6-1960</nato-il>
+		<nato-a>Como (Co)</nato-a>
+		<nazionalità>Italiana</nazionalità>
+		<stato-civile>Coniugato</stato-civile>
+	</dati-personali>
+		<esperienze-professionali>
+			<esperienza>
+				<ruolo>Analista programmatore</ruolo>
+				<nome-azienda>Computer Software s.r.l</nome-azienda>
+				<luogo-azienda>Como</luogo-azienda>
+				<data>1990-1995</data>
+				<attività>Sviluppo di Sistemi Gestionali per piccole imprese tessili</attività>
+			</esperienza>
+			<esperienza>
+				<ruolo>Docente</ruolo>
+				<nome-azienda>ITIS Magistri Cumacini</nome-azienda>
+				<luogo-azienda>Como</luogo-azienda>
+				<data>1995-2020</data>
+				<attività>Tecnologie e progettazione - Corso informatica 1</attività>
+			</esperienza>
+		</esperienze-professionali>
+	</cv-mario-rossi>
+</curriculum-vitae>
