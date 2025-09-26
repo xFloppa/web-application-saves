@@ -1,0 +1,23 @@
+<catalogo>
+	<libro-1>
+		<titolo>Cambiare l'acqua ai fiori</titolo>
+		<autore>Valérie Perrin</autore>
+		<anno-di-pubblicazione>2018</anno-di-pubblicazione>
+		<genere>Romanzo</genere>
+		<prezzo>11,99€</prezzo>
+	</libro-1>
+	<libro-2>
+		<titolo>Algebra di base</titolo>
+		<autore>Marco Viviani</autore>
+		<anno-di-pubblicazione>2020</anno-di-pubblicazione>
+		<genere>Manuale didattico</genere>
+		<prezzo>14,50€</prezzo>
+	</libro-2>
+	<libro-3>
+		<titolo>Impero romano</titolo>
+		<autore>Sergio Conti</autore>
+		<anno-di-pubblicazione>2015</anno-di-pubblicazione>
+		<genere>Storia</genere>
+		<prezzo>19,99€</prezzo>
+	</libro-3>
+</catalogo>
